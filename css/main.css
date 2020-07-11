@@ -556,8 +556,8 @@ dd {
   max-width: 100%;
   padding: 0 1rem;
   background-color: #FFFFFF;
-  box-shadow: inset 0px 11px 8px -10px #5C0029,
-         inset 0px -11px 8px -10px #5C0029;
+  box-shadow: inset 0px 11px 8px -10px #000000,
+         inset 0px -11px 8px -10px #000000;
 }
 
 .container, .small-container, .medium-container {
